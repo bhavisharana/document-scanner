@@ -1,0 +1,17 @@
+# Target build directory
+/target
+
+# Environment variables
+.env
+
+# Temp files
+*.tmp
+*.png
+*.jpg
+*.pdf
+page-*.png
+
+# IDE files
+.vscode/
+.idea/
+*.swp
